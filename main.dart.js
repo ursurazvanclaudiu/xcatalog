@@ -66819,7 +66819,9 @@ p.Q=s
 p.ch=0
 p.y=p.dx
 p.z=1
+p.cx=0
 p.cy=s
+p.db=0
 break
 case C.bB:p=q.a
 p.e=C.bB
