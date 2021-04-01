@@ -66661,8 +66661,8 @@ return new S.w8(B.aie(new F.a_E(),r.a2X(r.glV().Ke()),t.Ts),P.aj(["/settings",ne
 F.a_E.prototype={
 $2:function(a,b){var s=null,r=t.w,q=a.T(r).f.a.a,p=a.T(r).f.a.b
 if(b.a===C.dM)return new G.J5(s)
-if(b.b!=null)if(p/q>=1.7777777777777777)return new X.w1(s)
-if(p/q>=1.7777777777777777)return new R.u1(s)
+if(b.b!=null)if(p/q>=1.3333333333333333)return new X.w1(s)
+if(p/q>=1.3333333333333333)return new R.u1(s)
 else return new N.CH(s)},
 $C:"$2",
 $R:2,
